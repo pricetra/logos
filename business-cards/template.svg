@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  width="7in"
+  height="2in"
+  viewBox="0 0 700 200"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ===================== -->
+  <!-- FRONT SIDE (Left) -->
+  <!-- ===================== -->
+  <rect x="0" y="0" width="350" height="200" fill="#0f172a" rx="12"/>
+
+  <!-- Logo Placeholder -->
+  <circle cx="60" cy="60" r="22" fill="#22c55e"/>
+  <text x="60" y="66"
+        text-anchor="middle"
+        font-size="18"
+        font-weight="700"
+        fill="#0f172a"
+        font-family="Inter, Arial, sans-serif">
+    P
+  </text>
+
+  <!-- Name -->
+  <text x="40" y="120"
+        font-size="22"
+        font-weight="700"
+        fill="#ffffff"
+        font-family="Inter, Arial, sans-serif">
+    Ayaan Siddiqui
+  </text>
+
+  <!-- Title -->
+  <text x="40" y="145"
+        font-size="14"
+        fill="#94a3b8"
+        font-family="Inter, Arial, sans-serif">
+    Full-Stack Software Engineer
+  </text>
+
+  <!-- Brand -->
+  <text x="40" y="170"
+        font-size="12"
+        fill="#22c55e"
+        font-family="Inter, Arial, sans-serif">
+    pricetra.com
+  </text>
+
+  <!-- ===================== -->
+  <!-- BACK SIDE (Right) -->
+  <!-- ===================== -->
+  <rect x="350" y="0" width="350" height="200" fill="#ffffff" rx="12"/>
+
+  <!-- Accent Bar -->
+  <rect x="350" y="0" width="8" height="200" fill="#22c55e"/>
+
+  <!-- Contact Info -->
+  <text x="380" y="60"
+        font-size="14"
+        fill="#0f172a"
+        font-family="Inter, Arial, sans-serif">
+    📧 ayaan@email.com
+  </text>
+
+  <text x="380" y="90"
+        font-size="14"
+        fill="#0f172a"
+        font-family="Inter, Arial, sans-serif">
+    🌐 pricetra.com
+  </text>
+
+  <text x="380" y="120"
+        font-size="14"
+        fill="#0f172a"
+        font-family="Inter, Arial, sans-serif">
+    💼 linkedin.com/in/ayaan
+  </text>
+
+  <text x="380" y="150"
+        font-size="14"
+        fill="#0f172a"
+        font-family="Inter, Arial, sans-serif">
+    📍 United States
+  </text>
+
+</svg>
+
